@@ -17,6 +17,7 @@
 
 <li>Jogue usando as teclas direcionais do teclado.</li>
 <br>
+<b>English Version:</b>
 <br>
 <h4>A simple Pokémon Web Game</h4>
 <p>This is a small project to learn more about web development. The chosen topic was Pokémon.</p>
