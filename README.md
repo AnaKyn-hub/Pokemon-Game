@@ -13,7 +13,7 @@
   <img src="https://user-images.githubusercontent.com/74941756/162068617-be3bf09c-c944-452d-b27f-8af1b62e0ead.png">
 </ul>
 <br>
-<h4>✨Ou você pode clonar este repositório na sua maquina e abrir o HTML no seu navegador de preferência!✨</h4>
+<h4>✨Ou você pode clonar este repositório na sua máquina e abrir o HTML no seu navegador de preferência!✨</h4>
 
 <h4>Como Jogar:</h4>
 
