@@ -12,6 +12,8 @@
   <li>Após extrair o conteúdo, abra a pasta "Pokemon-Game-main", depois abra a pasta "Pokemon game" e abra o arquivo "index.html" no seu navegador.</li>
   <img src="https://user-images.githubusercontent.com/74941756/162068617-be3bf09c-c944-452d-b27f-8af1b62e0ead.png">
 </ul>
+<br>
+<h4>✨Ou você pode clonar este repositório na sua maquina e abrir o HTML no seu navegador de preferência!✨</h4>
 
 <h4>Como Jogar:</h4>
 
@@ -32,6 +34,8 @@
   <li>After extracting the content, open the 'Pokemon-Game-main' folder, then open the 'Pokémon game' folder and open the 'index.html' file in your browser.</li>
   <img src="https://user-images.githubusercontent.com/74941756/162068617-be3bf09c-c944-452d-b27f-8af1b62e0ead.png">
 </ul>
+
+<h4>✨Or you can clone this repository to your machine and open the HTML file in your preferred browser!✨</h4>
 
 <h4>How to play:</h4> 
 <li>Play using the keyboard's directional keys.</li>
